@@ -1,6 +1,6 @@
 [submodule "images"]
 	path = images
-	url = https://github.com/sdy2022/images.git
+	url = https://github.com/sdy60-2022/images.git
     branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
@@ -24,4 +24,4 @@
 	branch = main 
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/sdy2022/_gallery
+	url = https://github.com/sdy60-2022/_gallery
