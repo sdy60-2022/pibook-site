@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Πρωτόκολλα IoT
-image_url: /images/reactivision-simulator.png
+image_url: /images/5g.png
 caption: Διαφάνειες για τα πρωτόκολλα IoT
 slides:
   - zigbee
