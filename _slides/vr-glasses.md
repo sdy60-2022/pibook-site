@@ -2,7 +2,7 @@
 layout: slides
 title: Γυαλιά VR
 caption: Διαφάνειες σχετικές με Γυαλιά Εικονικής Πραγματικότητας
-image_url: /images/google-glass.jpg
+image_url: /images/google-glass.png
 slides:
   - View-Master
   - electrocular
