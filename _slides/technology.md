@@ -12,5 +12,6 @@ slides:
   - android-emulator
   - smalltalk
   - apple IIc
+  - zypad
 ---
 
