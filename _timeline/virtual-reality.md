@@ -14,5 +14,6 @@ events:
   - kinect
   - google-glass
   - microsoft-hololens
+  - virtual-reality-glasses
 ---
 
