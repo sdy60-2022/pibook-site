@@ -16,5 +16,4 @@
 
 [^1]: fig:memex
 
-[^2]: vannevar_bush
-
+[^2]: fig:vannevar_bush
