@@ -7,4 +7,8 @@ slides:
   - arquake
   - ar-collaborative
   - htc_vive
+  - SixthSense
+  - Magic Leap, Inc.
+  - f-18-simulator
+  - arillery-training-simulator
 ---
