@@ -5,7 +5,7 @@
 
 {% include figure image_path="/images/aswemaythink-memex.jpg" caption="Figure 1: Η υποθετική μηχανή memex." id="fig:memex" %}
 
-{% include figure image_path="/images/aswemaythink_vannevar_bush.png" caption="Figure 2: Πορτρέτο του Dr. Vannevar Bush." id="fig:vannevar_bush" %}
+{% include figure image_path="/images/aswemaythink_vannevar_bush.jpg" caption="Figure 2: Πορτρέτο του Dr. Vannevar Bush." id="fig:vannevar_bush" %}
 
 Η εργασία αυτή ήταν μία εξέλιξη του δοκιμίου του Μπους "Mechanization and the Record" που δημοσιεύτηκε το 1939. Σε αυτήν, περιέγραψε μια μηχανή που θα συνδύαζε τεχνολογίες χαμηλότερου επιπέδου για να επιτύχει ένα υψηλότερο επίπεδο οργάνωσης της γνώσης. 
 
