@@ -11,5 +11,4 @@ tags:
   - training
   - simulation
 ---
-
-{% include cs-canetroller.md %\}}
+{% include cs-canetroller.md %}
