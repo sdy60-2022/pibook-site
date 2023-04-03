@@ -1,10 +1,10 @@
 [submodule "images"]
 	path = images
-	url = https://github.com/sdy60-2022/images.git
+	url = https://github.com/vkaragia/images.git
     	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/sdy60-2022/extras.git
+	url = https://github.com/vkaragia/extras.git
 	branch = master
 [submodule "_gallery"]
 	path = _gallery
