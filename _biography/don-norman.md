@@ -14,5 +14,5 @@ tags:
   - Emotional design
 ---
 
-{% include bio-kay.md %}
+{% include bio-norman.md %}
 
